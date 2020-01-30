@@ -87,3 +87,6 @@ use dataia_nancy;
 -- AS (SELECT * FROM projeta NATURAL JOIN projetb);
 -- ALTER TABLE projetc
 -- MODIFY COLUMN id INT FIRST;
+
+
+SELECT * FROM projetb LIMIT 10;
